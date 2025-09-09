@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "thumb": "1.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Nimal Perera",
+    "memberLink": "team-details",
+    "designation": "Legal"
+  },
+  {
+    "id": 2,
+    "thumb": "2.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Priya Fernando",
+    "memberLink": "team-details",
+    "designation": "Relationship"
+  },
+  {
+    "id": 3,
+    "thumb": "3.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Dilan Jayawardena",
+    "memberLink": "team-details",
+    "designation": "Fitness"
+  },
+  {
+    "id": 4,
+    "thumb": "4.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Kanchana Silva",
+    "memberLink": "team-details",
+    "designation": "Career and Education"
+  },
+  {
+    "id": 5,
+    "thumb": "5.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Anoma Wijesinghe",
+    "memberLink": "team-details",
+    "designation": "Health and Wellness"
+  },
+  {
+    "id": 6,
+    "thumb": "6.png",
+    "icon1": "fa-solid fa-share-alt",
+    "icon2": "fa-regular fa-comment",
+    "member": "Suresh de Silva",
+    "memberLink": "team-details",
+    "designation": "Finance and Entrepreneurship"
+  }
+]

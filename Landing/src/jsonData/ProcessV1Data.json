@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "icon": "clipboard.png",
+    "number": "01",
+    "title": "Personalized Assessments",
+    "text": "Start with personalized assessments to understand your unique needs and goals."
+  },
+  {
+    "id": 2,
+    "icon": "handshake.png",
+    "title": "Expert Matching ",
+    "number": "02",
+    "text": "We match you with the right experts based on your specific challenges and goals."
+  },
+  {
+    "id": 3,
+    "icon": "target2.png",
+    "title": "Goal Setting",
+    "number": "03",
+    "text": "Together, you and your expert will set achievable goals and create a roadmap to success."
+  },
+  {
+    "id": 4,
+    "icon": "support.png",
+    "title": "Ongoing Support ",
+    "number": "04",
+    "text": "Receive continuous support and guidance to ensure you stay on track and achieve your goals."
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "thumb": "1.jpg",
+    "postLink": "blog-single-sidebar",
+    "date": "25 August, 2025",
+    "title": "Unlocking Your Potential: Personal Growth Strategies for Success."
+  },
+  {
+    "id": 2,
+    "thumb": "2.jpg",
+    "postLink": "blog-single-sidebar",
+    "date": "25 August, 2025",
+    "title": "Building Resilience: Mental Support Techniques for a Healthier Mind"
+  },
+  {
+    "id": 3,
+    "thumb": "3.jpg",
+    "postLink": "blog-single-sidebar",
+    "date": "25 August, 2025",
+    "title": "Strategic Planning: Enhance Business Success through Effective Management"
+  }
+]

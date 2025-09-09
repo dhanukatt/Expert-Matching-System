@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "icon": "flaticon-startup-6",
+    "end": 500,
+    "info1": "Personalized guidance sessions ",
+    "info2": "conducted over the last year."
+  },
+  {
+    "id": 2,
+    "icon": "flaticon-team",
+    "end": 30,
+    "info1": "Fields of expertise available, ranging from ",
+    "info2": "career advice to wellness coaching."
+  }
+]

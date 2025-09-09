@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "icon1": "dumbell.png",
+    "icon1Dark": "dumbell.png",
+    "thumb": "1-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Get tailored fitness routines and expert guidance to help you achieve your health goals. Our fitness experts will craft a plan that's right for you, keeping you motivated every step of the way.",
+    "title": "Personalized Fitness Plans",
+    "serviceLink": "services-details"
+  },
+  {
+    "id": 2,
+    "icon1": "arrow.png",
+    "icon1Dark": "arrow.png",
+    "thumb": "2-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Advance your career with personalized coaching and skill development sessions. Whether you're looking to move up the ladder or switch careers, our experts are here to guide you.",
+    "title": "Career Coaching & Development",
+    "serviceLink": "services-details"
+  },
+  {
+    "id": 3,
+    "icon1": "brain.png",
+    "icon1Dark": "brain.png",
+    "thumb": "3-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Access expert advice and mental health resources to improve your wellbeing. Our professionals are here to help you manage stress, build resilience, and lead a balanced life.",
+    "title": "Mental Wellbeing Support",
+    "serviceLink": "services-details"
+  },
+  {
+    "id": 4,
+    "icon1": "4.png",
+    "icon1Dark": "4.png",
+    "thumb": "4-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+    "title": "SEO Optimization",
+    "serviceLink": "services-details"
+  },
+  {
+    "id": 5,
+    "icon1": "5.png",
+    "icon1Dark": "5.png",
+    "thumb": "5-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+    "title": "PPC Advertising",
+    "serviceLink": "services-details"
+  },
+  {
+    "id": 6,
+    "icon1": "6.png",
+    "icon1Dark": "6.png",
+    "thumb": "6-full.jpg",
+    "icon2": "fas fa-long-arrow-right",
+    "text": "Continued at up zealously necessary breakfast. Surrounded sir motionless she end literature. Gay direction neglected but supported yet melancho themselves.",
+    "title": "Digital Marketing",
+    "serviceLink": "services-details"
+  }
+]

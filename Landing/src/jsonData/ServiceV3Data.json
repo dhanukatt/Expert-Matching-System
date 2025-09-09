@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "thumb": "banner-3.jpg",
+    "icon": "arrow.png",
+    "serviceTitle": "Personal Growth Coaching",
+    "serviceText": "Get tailored coaching sessions that focus on your personal development goals, helping you achieve success and fulfillment.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  },
+  {
+    "id": 2,
+    "thumb": "banner-3.jpg",
+    "icon": "ai.png",
+    "serviceTitle": "AI-Driven Insights",
+    "serviceText": "Utilize our AI tools to gain actionable insights that can drive your personal and professional growth.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  },
+  {
+    "id": 3,
+    "thumb": "banner-3.jpg",
+    "icon": "handshake (2).png",
+    "serviceTitle": "Expert Consultation",
+    "serviceText": "Connect with industry experts who can provide you with the guidance you need in various fields.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  },
+  {
+    "id": 4,
+    "thumb": "banner-3.jpg",
+    "icon": "ladder.png",
+    "serviceTitle": "Career Development",
+    "serviceText": "Enhance your career with strategic advice and support tailored to your professional aspirations.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  },
+  {
+    "id": 5,
+    "thumb": "banner-3.jpg",
+    "icon": "heart.png",
+    "serviceTitle": "Mental Wellness Support",
+    "serviceText": "Access mental health resources and support to help you maintain balance and wellness in your life.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  },
+  {
+    "id": 6,
+    "thumb": "banner-3.jpg",
+    "icon": "bar.png",
+    "serviceTitle": "Business Strategy Planning ",
+    "serviceText": "Receive strategic business planning services and updates to drive your company's success and growth.",
+    "btnText": "Learn More",
+    "btnLink": "services-details",
+    "btnIcon": "fa-solid fa-arrow-right"
+  }
+]
