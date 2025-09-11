@@ -11,7 +11,7 @@ const FooterV1 = () => {
     event.preventDefault();
 
 
-    
+
     const emailData = {
       email: event.target.email.value, // Get the email input value
     };
@@ -27,6 +27,8 @@ const FooterV1 = () => {
         toast.error("Failed to submit email. Please try again."); // Show error message
       });
   };
+
+  
 
   return (
     <>
