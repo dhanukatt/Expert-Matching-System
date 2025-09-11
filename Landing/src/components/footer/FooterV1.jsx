@@ -10,7 +10,6 @@ const FooterV1 = () => {
   const handleSearch = (event) => {
     event.preventDefault();
 
-    
 
 
     const emailData = {
@@ -159,3 +158,4 @@ const FooterV1 = () => {
 };
 
 export default FooterV1;
+
