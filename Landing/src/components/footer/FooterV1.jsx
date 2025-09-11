@@ -10,6 +10,8 @@ const FooterV1 = () => {
   const handleSearch = (event) => {
     event.preventDefault();
 
+
+    
     const emailData = {
       email: event.target.email.value, // Get the email input value
     };
