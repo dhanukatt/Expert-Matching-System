@@ -28,7 +28,7 @@ const FooterV1 = () => {
       });
   };
 
-// Check api
+  
 
   return (
     <>
