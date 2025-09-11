@@ -12,6 +12,8 @@ const FooterV1 = () => {
 
 
 
+
+    
     const emailData = {
       email: event.target.email.value, // Get the email input value
     };
@@ -28,7 +30,7 @@ const FooterV1 = () => {
       });
   };
 
-  
+
 
   return (
     <>
