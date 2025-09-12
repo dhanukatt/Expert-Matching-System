@@ -41,6 +41,7 @@ const FooterV1 = () => {
                 </div>
                 <div className="f-item about pr-10 pr-xs-0 pr-md-0">
                   <img
+                  
                     className="logo"
                     src="/img/logo/logo-light.png"
                     alt="Logo"
