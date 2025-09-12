@@ -26,6 +26,7 @@ const FooterV1 = () => {
       });
   };
 
+  
   return (
     <>
       <footer
