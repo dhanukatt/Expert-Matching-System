@@ -35,7 +35,7 @@ const FooterV1 = () => {
         <div className="container">
           <div className="f-items default-padding-bottom pt-70 pt-xs-0">
             <div className="row">
-              <div className="col-lg-3 col-md-6 footer-  item mt-50">
+              <div className="col-lg-3 col-md-6 footer-item mt-50">
                 <div className="footer-animated-shape">
                   <img src="/img/shape/6.png" alt="Image Not Found" />
                 </div>
