@@ -123,7 +123,8 @@ const FooterV1 = () => {
                       autoComplete="off"
                       required
                       value={email}
-                      onChange={(e) => setEmail(e.target.value)} // Update email state on input change
+                      onChange={(e) => setEmail(e.target.value)} 
+                      // Update email state on input change
                     />
                     <button type="submit">
                       <i className="fas fa-arrow-right"></i>
