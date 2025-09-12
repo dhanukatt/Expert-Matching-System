@@ -145,7 +145,7 @@ const FooterV1 = () => {
             <div className="row">
               <div className="col-lg-12">
                 <p>
-                  
+
                   Copyright &copy; {new Date().getFullYear()} UConnect. All
                   Rights Reserved
                 </p>
@@ -159,4 +159,3 @@ const FooterV1 = () => {
 };
 
 export default FooterV1;
-
