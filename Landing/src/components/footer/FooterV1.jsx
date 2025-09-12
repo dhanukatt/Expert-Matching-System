@@ -140,7 +140,6 @@ const FooterV1 = () => {
           </div>
         </div>
 
-
         <div className="footer-bottom bg-dark text-light text-center">
           <div className="container">
             <div className="row">
