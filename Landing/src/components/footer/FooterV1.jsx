@@ -13,7 +13,7 @@ const FooterV1 = () => {
     const emailData = {
       email: event.target.email.value, // Get the email input value
     };
-    
+
     axios
       .post("http://localhost:8070/email/addEmail", emailData)
       .then((response) => {
@@ -22,6 +22,7 @@ const FooterV1 = () => {
         toast.success("Thanks for subscribing!"); // Show success message
       })
       .catch((error) => {
+        
         toast.error("Failed to submit email. Please try again."); // Show error message
       });
   };
