@@ -107,7 +107,6 @@ const FooterV1 = () => {
                   </ul>
                 </div>
               </div>
-
               <div className="col-lg-3 col-md-6 footer-item mt-50">
                 <div className="f-item newsletter">
                   <h4 className="widget-title">Newsletter</h4>
