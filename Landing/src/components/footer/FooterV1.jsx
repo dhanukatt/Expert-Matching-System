@@ -45,7 +45,6 @@ const FooterV1 = () => {
                     src="/img/logo/logo-light.png"
                     alt="Logo"
                   />
-                  
                   <p>
                     Empowering individuals by providing seamless access to
                     expert advice across various fields, from personal growth to
