@@ -28,7 +28,7 @@ const FooterV1 = () => {
       });
   };
 
-  
+
 
   return (
     <>
@@ -139,6 +139,7 @@ const FooterV1 = () => {
             </div>
           </div>
         </div>
+
 
         <div className="footer-bottom bg-dark text-light text-center">
           <div className="container">
