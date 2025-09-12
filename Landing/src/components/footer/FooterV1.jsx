@@ -27,6 +27,7 @@ const FooterV1 = () => {
   };
 
   return (
+    
     <>
       <footer
         className="bg-dark text-light"
