@@ -14,6 +14,7 @@ const FooterV1 = () => {
       email: event.target.email.value, // Get the email input value
     };
 
+    
     axios
       .post("http://localhost:8070/email/addEmail", emailData)
       .then((response) => {
