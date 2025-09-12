@@ -150,5 +150,4 @@ const FooterV1 = () => {
     </>
   );
 };
-
 export default FooterV1;
