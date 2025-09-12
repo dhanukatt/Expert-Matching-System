@@ -22,7 +22,6 @@ const FooterV1 = () => {
         toast.success("Thanks for subscribing!"); // Show success message
       })
       .catch((error) => {
-        
         toast.error("Failed to submit email. Please try again."); // Show error message
       });
   };
